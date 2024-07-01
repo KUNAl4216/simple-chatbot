@@ -1,0 +1,13 @@
+Here's an example of a conversation with the chatbot:
+
+Chatbot: Hello! Type 'bye' to exit the chat.
+You: hello
+Chatbot: Hi there! How can I help you today?
+You: what is your name
+Chatbot: I'm a simple chatbot created in Python.
+You: how are you
+Chatbot: I'm just a bot, but I'm doing great! How about you?
+You: thank you
+Chatbot: You're welcome!
+You: bye
+Chatbot: Goodbye! Have a nice day!
